@@ -1,0 +1,18 @@
+Place,Population,City/State/Country,min_case,Source
+Mumbai,25000000,City,100,https://indiapopulation2020.in/population-of-mumbai-2020.html
+Hyderabad,12900000,City,15,https://indiapopulation2020.in/population-of-hyderabad-2020-capital-of-andhra-pradesh.html
+Bengaluru,13400000,City,15,https://indiapopulation2020.in/population-of-bangalore-2020.html
+Indore,5120000,City,15,https://indiapopulation2020.in/population-of-indore-2020.html
+Chennai,10970000,City,20,https://indiapopulation2020.in/population-of-chennai-2020.html
+Ahmadabad,8330000,City,20,https://indiapopulation2020.in/population-of-ahmedabad-2020.html
+Uttar Pradesh,224700000,State,50,https://indiapopulation2020.in/population-of-uttar-pradesh-2020.html
+Maharashtra,122700000,State,100,https://indiapopulation2020.in/population-of-maharashtra-2020.html
+Tamil Nadu,88300000,State,100,https://indiapopulation2020.in/population-of-tamil-nadu-2020.html
+Madhya Pradesh,81100000,State,100,https://indiapopulation2020.in/population-of-madhya-pradesh-2020.html
+Rajasthan,77100000,State,100,https://indiapopulation2020.in/population-of-rajasthan-2020.html
+Gujarat,69600000,State,100,https://indiapopulation2020.in/population-of-gujarat-2020.html
+Andhra Pradesh,54500000,State,50,https://indiapopulation2020.in/population-of-andhra-pradesh-2020.html
+Telangana,40600000,State,50,https://indiapopulation2020.in/population-of-telangana-2020.html
+Kerala,37900000,State,50,https://indiapopulation2020.in/population-of-kerala-2020.html
+Delhi,30200000,State,100,https://indiapopulation2020.in/population-of-delhi-2020.html
+India,1380000000,Country,100,https://indiapopulation2020.in/
